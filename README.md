@@ -223,4 +223,4 @@ __Loyihangizga terminal (cmd) orqali kirib oling:__
       - yangilanishlar **Git** -dagi loyihga yuklandi.
 
 # E'tibor uchun raxmat
-> savollar bo'lsa [Telegram](https://t.me/@Ishonch_Dev_Admin) dan yozishingiz mumkin
+> savollar bo'lsa [Telegram](https://t.me/Ishonch_Dev_Admin) dan yozishingiz mumkin
