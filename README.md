@@ -221,6 +221,7 @@ __Loyihangizga terminal (cmd) orqali kirib oling:__
 
   - **git push**
       - yangilanishlar **Git** -dagi loyihga yuklandi.
+      - Yuklangan 👉 [Loyiha](https://github.com/BunyodIsmailov/GitLoyiha) 
 
 # E'tibor uchun raxmat
 > savollar bo'lsa [Telegram](https://t.me/Ishonch_Dev_Admin) dan yozishingiz mumkin
